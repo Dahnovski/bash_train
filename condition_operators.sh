@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Enter the number:"
+echo "Enter the number checking his status(POSITIVE, NEGATIVE, NaN):"
 read number
 
 if [ $number -gt 0 ]
