@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Enter the numbers:"
+echo "Enter the numbers for sum operation":
 read a
 read b
 sum=$((a+b))
